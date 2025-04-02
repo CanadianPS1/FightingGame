@@ -1,0 +1,78 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\spiel\OneDrive\Programing\FightingGame\FightingGame.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\spiel\OneDrive\Programing\FightingGame\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\spiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\spiel\AppData\Local\Programs\Python\Python312\;C:\Users\spiel\AppData\Local\Microsoft\WindowsApps;C:\Users\spiel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\spiel\AppData\Local\Muse Hub\lib;C:\Users\spiel\.dotnet\tools;C:\Users\spiel\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\spiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\spiel\AppData\Local\Programs\Python\Python312\;C:\Users\spiel\AppData\Local\Microsoft\WindowsApps;C:\Users\spiel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\spiel\AppData\Local\Muse Hub\lib;C:\Users\spiel\.dotnet\tools;C:\Users\spiel\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Muse Hub\lib\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Version string: 1.017.000_011 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\spiel\OneDrive\Programing\FightingGame\FightingGame.exe"
+Args length:	71/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\spiel\OneDrive\Programing\FightingGame\FightingGame.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\spiel\OneDrive\Programing\FightingGame\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\spiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\spiel\AppData\Local\Programs\Python\Python312\;C:\Users\spiel\AppData\Local\Microsoft\WindowsApps;C:\Users\spiel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\spiel\AppData\Local\Muse Hub\lib;C:\Users\spiel\.dotnet\tools;C:\Users\spiel\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\spiel\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\spiel\AppData\Local\Programs\Python\Python312\;C:\Users\spiel\AppData\Local\Microsoft\WindowsApps;C:\Users\spiel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\spiel\AppData\Local\Muse Hub\lib;C:\Users\spiel\.dotnet\tools;C:\Users\spiel\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\Muse Hub\lib\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\spiel\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Version string: 1.017.000_011 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\spiel\OneDrive\Programing\FightingGame\FightingGame.exe"
+Args length:	71/32768 chars
+Exit code:	0
